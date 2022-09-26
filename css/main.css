@@ -1,0 +1,50 @@
+.card mx-auto{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 3em;
+    border-radius: 30px;
+    width:100%;
+    max-width: 420px;
+    
+}
+
+.city{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.temp{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.high{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.low{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wind{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+   background-color: #222;
+   background-image: url(' https://source.unsplash.com/1600x1000/?weather');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: ;
+   background-position-y: 50px;
+}
